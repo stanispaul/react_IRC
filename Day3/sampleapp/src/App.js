@@ -21,8 +21,8 @@ function App()
     <div class="flip-card-inner">
     
     <div class="flip-card-front">
-    
     <img src={Img2} alt=""Logo/>
+    
     
     </div>
     
@@ -53,7 +53,7 @@ function App()
         
         <img src={Img3} alt="Logo"/>
         
-        <h1 class="H1">Capatin America</h1>
+        <h1 class="H1">Captain America</h1>
         
         <h3>The First Avenger</h3>
         
