@@ -1,0 +1,29 @@
+{
+    "user":[
+        {
+            "id":1,
+            "username":"Viswa",
+            "password":"123"
+        },
+        {
+            "id":2,
+            "username":"bharathi",
+            "password":"123"
+        },
+        {
+            "id":3,
+            "username":"thiru",
+            "password":"123"
+        }
+    ],
+    "product":[
+        {
+            "pid":1,
+            "productname":"apple"
+        },
+        {
+            "pid":2,
+            "productname":"orange"
+        }
+    ]
+}

@@ -1,4 +1,5 @@
 import '../Assets/css/Log.css';
+import { Link } from 'react-router-dom';
 function Login()
 {
     return(
@@ -20,11 +21,13 @@ function Login()
             <input placeholder="Password" id="password" class="inputField" type="password"/>
         </div>
         
-        
+        <Link to ='/Dashboard'>
+
         <button id="button">Submit</button>
+        </Link>
         <div class="signupContainer">
             <p>Don't have any account?</p>
-            <a href="#">Sign up</a>
+            <a>Sign up</a>
         </div>
     </form>
 

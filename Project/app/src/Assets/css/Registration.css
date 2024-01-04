@@ -7,7 +7,7 @@
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #fec107;
+  background-color: linear-gradient(15deg, #0f4667 0%, #2a6973 150%);
   padding: 0 10px;
   color: #0f0e0e;
 }
@@ -18,13 +18,14 @@ body {
   margin: 50px auto;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.125);
   padding: 30px;
+  border-radius: 10px;
 }
 
 .wrapper .title {
   font-size: 24px;
   font-weight: 700;
   margin-bottom: 25px;
-  color: #fec107;
+  color: #504e49;
   text-transform: uppercase;
   text-align: center;
 }
